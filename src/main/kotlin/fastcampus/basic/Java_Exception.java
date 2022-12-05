@@ -1,5 +1,8 @@
 package fastcampus.basic;
 
+import java.lang.reflect.Array;
+import java.util.List;
+
 public class Java_Exception {
 
     public static void main(String[] args) {
@@ -8,5 +11,7 @@ public class Java_Exception {
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
+
     }
+
 }
