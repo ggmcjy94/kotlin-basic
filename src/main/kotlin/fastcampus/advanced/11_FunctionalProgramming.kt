@@ -1,5 +1,5 @@
 package fastcampus.advanced
-// arrow 라이브러리 적용 하면 다양한 함수를 사용가능 
+// arrow 라이브러리 적용 하면 다양한 함수를 사용가능
 fun main() {
 
 //    val list = mutableListOf(printHello)
