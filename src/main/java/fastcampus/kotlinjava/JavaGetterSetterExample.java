@@ -2,6 +2,7 @@ package fastcampus.kotlinjava;
 
 import java.time.LocalDate;
 
+
 public class JavaGetterSetterExample {
 
     public static void main(String[] args) {

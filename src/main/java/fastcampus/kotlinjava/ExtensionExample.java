@@ -1,5 +1,6 @@
 package fastcampus.kotlinjava;
 
+
 public class ExtensionExample {
 
     public static void main(String[] args) {
